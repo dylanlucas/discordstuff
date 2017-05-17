@@ -1,0 +1,24 @@
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\TestingBot.exe.config
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\TestingBot.exe
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\TestingBot.pdb
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Discord.Net.dll
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\EntityFramework.dll
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\RestSharp.dll
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\WebSocket4Net.dll
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\EntityFramework.xml
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\bin\Debug\RestSharp.xml
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\obj\Debug\TestingBot.csprojResolveAssemblyReference.cache
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\obj\Debug\TestingBot.exe
+C:\Users\dylan\Desktop\Testing Stuff (Code)\TestingBot\TestingBot\obj\Debug\TestingBot.pdb
+C:\Users\dylan\Source\Repos\discordstuff\TestingBot\TestingBot\bin\Debug\TestingBot.exe.config
+C:\Users\dylan\Source\Repos\discordstuff\TestingBot\TestingBot\obj\Debug\TestingBot.exe
+C:\Users\dylan\Source\Repos\discordstuff\TestingBot\TestingBot\obj\Debug\TestingBot.pdb
